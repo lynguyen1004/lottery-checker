@@ -2,7 +2,7 @@
 This is small project using python to help you check automatially Vietnamese lottery results everyday
 I use macbook, so all of code here for Mac, not sure for other operating systems
 ### Library
-Firstly, we need to install virtual enviroment:
+Firstly, we need to install virtual environment:
 ```python
 python3 -m venv venv1
 ```
